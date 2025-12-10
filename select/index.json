@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "心予報",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-10T14:48:22.990758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kokoroyohou (心予報)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Kokoroyohou_(心予報)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心予報 (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_心予報_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心予報",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/03_心予報_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心予報 (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_心予報_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心予報",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_心予報_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心予報",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/06_心予報_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "心予報",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_心予報_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心予報",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_心予報_Eve.txt"
+    }
+  ]
+}
